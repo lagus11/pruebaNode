@@ -1,0 +1,14 @@
+[
+    {
+        "menu": {
+            "LPR": "Place an order",
+            "SP": "Order tracking",
+            "PA": "Active promotions",
+            "MIE": "My delivery information",
+            "LP": "Price list",
+            "AV": "Schedule a visit",
+            "QS": "Complaints",
+            "ECP": "Send proof of payment"
+        }
+    }
+]

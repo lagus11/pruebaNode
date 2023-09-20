@@ -1,0 +1,14 @@
+[
+    {
+        "menu": {
+            "LPR": "Hacer un pedido",
+            "SP": "Seguimiento a pedido",
+            "PA": "Promociones activas",
+            "MIE": "Mi información de entrega",
+            "LP": "Listado de precios",
+            "AV": "Agendar una visita",
+            "QS": "Queja",
+            "ECP": "Enviar comprobante de Pago"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "telefono": "5216862030008@c.us",
+    "current_activity": "agenda_dia",
+    "clientes_mostrados": "si",
+    "cliente_seleccionado": "600200285",
+    "subMenu": {
+      "activity": "acciones_pendientes",
+      "menu_acciones_pendiente": true
+    }
+  },
+  {
+    "telefono": "5216863064158@c.us",
+    "current_activity": "menu_principal"
+  },
+  {
+    "telefono": "5218114175190@c.us",
+    "current_activity": "agenda_dia",
+    "clientes": [
+      {
+        "Name": "ESTACION DEL TREN",
+        "CustomerNumber": "600121426"
+      },
+      {
+        "Name": "PALAPA GEO 1",
+        "CustomerNumber": "ABA16"
+      },
+      {
+        "Name": "PALAPA GEO 2",
+        "CustomerNumber": "600121524"
+      },
+      {
+        "Name": "FONDA JUANA",
+        "CustomerNumber": "600200285"
+      }
+    ],
+    "clientes_mostrados": "si"
+  },
+  {
+    "telefono": "5213316030398@c.us",
+    "current_activity": "mis_tiendas",
+    "clientes_mostrados": "si"
+  }
+]

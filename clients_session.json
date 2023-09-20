@@ -1,0 +1,194 @@
+[
+    {
+        "telefono": "5216862030008@c.us",
+        "id_customer": 2,
+        "id_employee": 1,
+        "name": "AGUSTÍN DE JESUS",
+        "address1": "CARR IBARRILLA KM5",
+        "address2": "x",
+        "client_id": 11,
+        "database": "dsdv41_test2",
+        "last_message_time": "2023-08-30T05:20:47.091Z",
+        "id": "NTIxMzMxNjAzMDM5OA==",
+        "language": "es",
+        "functions": {
+            "LPR": "1",
+            "SP": "1",
+            "PA": "1",
+            "MIE": "1",
+            "LP": "1",
+            "AV": "1",
+            "QS": "1",
+            "ECP": "0"
+        },
+        "template": {
+            "raise_order": {
+                "es": {
+                    "header_raise_order": "Pedido rápido"
+                },
+                "en": {
+                    "header_raise_order": "Quick order"
+                }
+            }
+        },
+        "equivalence": {
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4,
+            "5": 5,
+            "6": 6,
+            "7": 7,
+            "8": 8
+        },
+        "modules": {
+            "sales": false,
+            "services_evidences": true,
+            "collections": false
+        }
+    },
+    {
+        "telefono": "5218114175190@c.us",
+        "id_customer": 2,
+        "id_employee": 1,
+        "name": "ANTONIO CUAN",
+        "address1": "CARR IBARRILLA KM5",
+        "address2": "x",
+        "client_id": 11,
+        "database": "dsdv41_test2",
+        "last_message_time": "2023-08-30T05:20:47.091Z",
+        "id": "NTIxMzMxNjAzMDM5OA==",
+        "language": "es",
+        "functions": {
+            "LPR": "1",
+            "SP": "1",
+            "PA": "1",
+            "MIE": "1",
+            "LP": "1",
+            "AV": "1",
+            "QS": "1",
+            "ECP": "0"
+        },
+        "template": {
+            "raise_order": {
+                "es": {
+                    "header_raise_order": "Pedido rápido"
+                },
+                "en": {
+                    "header_raise_order": "Quick order"
+                }
+            }
+        },
+        "equivalence": {
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4,
+            "5": 5,
+            "6": 6,
+            "7": 7,
+            "8": 8
+        },
+        "modules": {
+            "sales": false,
+            "services_evidences": true,
+            "collections": false
+        }
+    },
+    {
+        "telefono": "5216863064158@c.us",
+        "id_customer": 2,
+        "id_employee": 1,
+        "name": "MARIA DEL ROSARIO",
+        "address1": "CARR IBARRILLA KM5",
+        "address2": "x",
+        "client_id": 11,
+        "database": "dsdv41_test2",
+        "last_message_time": "2023-08-30T05:20:47.091Z",
+        "id": "NTIxMzMxNjAzMDM5OA==",
+        "language": "es",
+        "functions": {
+            "LPR": "1",
+            "SP": "1",
+            "PA": "1",
+            "MIE": "1",
+            "LP": "1",
+            "AV": "1",
+            "QS": "1",
+            "ECP": "0"
+        },
+        "template": {
+            "raise_order": {
+                "es": {
+                    "header_raise_order": "Pedido rápido"
+                },
+                "en": {
+                    "header_raise_order": "Quick order"
+                }
+            }
+        },
+        "equivalence": {
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4,
+            "5": 5,
+            "6": 6,
+            "7": 7,
+            "8": 8
+        },
+        "modules": {
+            "sales": false,
+            "services_evidences": true,
+            "collections": false
+        }
+    },
+    {
+        "telefono": "5213316030398@c.us",
+        "id_customer": 2,
+        "id_employee": 1,
+        "name": "JOSÉ PÉREZ",
+        "address1": "CARR IBARRILLA KM5",
+        "address2": "x",
+        "client_id": 11,
+        "database": "dsdv41_test2",
+        "last_message_time": "2023-08-30T05:20:47.091Z",
+        "id": "NTIxMzMxNjAzMDM5OA==",
+        "language": "es",
+        "functions": {
+            "LPR": "1",
+            "SP": "1",
+            "PA": "1",
+            "MIE": "1",
+            "LP": "1",
+            "AV": "1",
+            "QS": "1",
+            "ECP": "0"
+        },
+        "template": {
+            "raise_order": {
+                "es": {
+                    "header_raise_order": "Pedido rápido"
+                },
+                "en": {
+                    "header_raise_order": "Quick order"
+                }
+            }
+        },
+        "equivalence": {
+            "1": 1,
+            "2": 2,
+            "3": 3,
+            "4": 4,
+            "5": 5,
+            "6": 6,
+            "7": 7,
+            "8": 8
+        },
+        "modules": {
+            "sales": false,
+            "services_evidences": true,
+            "collections": false
+        }
+    }
+]
